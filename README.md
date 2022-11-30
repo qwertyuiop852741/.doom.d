@@ -1,2 +1,3 @@
 # .doom.d
-Doom Emacs config file
+My [Doom Emacs][doomlink] config file
+[doomlink]: https://github.com/doomemacs/doomemacs "Doom Emacs"
